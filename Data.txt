@@ -1,2 +1,0 @@
-Source for Seattle and St. Louis rain data comes from the professors repository linked below:
-  https://github.com/brian-fischer/DATA-3320/tree/main/weather
